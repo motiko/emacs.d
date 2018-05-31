@@ -152,3 +152,4 @@
 (load-theme 'solarized t)
 
 (global-set-key (kbd "M-p") 'ace-window)
+(put 'erase-buffer 'disabled nil)
